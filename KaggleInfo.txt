@@ -1,0 +1,4 @@
+Kaggle Username: Outer Skye
+Kaggle Leaderboard evidence: In this folder and in the GitHub as "KaggleLeaderboardScreenshot"
+Final Kaggle submission file: "submission_FINAL"
+Supporting Files: In this folder and the GitHub
